@@ -8,5 +8,5 @@ The goal of this project is to build a robust CNN model that can accurately reco
 
 Key Achievements
 
-Uppercase Character Recognition Accuracy: 94.36%
+Uppercase Character Recognition Accuracy: 94.36% 
 Lowercase Character Recognition Accuracy: 88.97%
